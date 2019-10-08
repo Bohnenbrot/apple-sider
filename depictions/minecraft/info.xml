@@ -1,0 +1,26 @@
+<package>
+	<id>com.supermamon.oldpackage</id>
+	<name>minecraft</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>untested(will be tested for ios 12.4, 7.1.3, 4.2.1 only)</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>i dont know yet (this is straight up piracy)</dependencies>
+	<descriptionlist>
+		<description> untested version of minecraft. dont know the outcome.</description>
+	</descriptionlist>
+	<screenshots>not yet</screenshots>
+	<changelog>
+            <changes>
+                <version>1.0.0-1</version>
+		<change>Initial release</change>
+            <changes>
+	</changelog>
+	<links></links>
+</package>
